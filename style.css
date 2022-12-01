@@ -1,0 +1,10 @@
+.box2 {
+  width: 200px;
+  height: 200px;
+  background-color: green;
+  line-height: 200px;
+  text-align: center;
+  color: white;
+  font-size: 2em;
+  border-radius: 10px;
+}
